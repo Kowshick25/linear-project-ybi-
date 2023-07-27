@@ -1,1 +1,1 @@
-# linear-project-ybi-
+# **Linear Regression**
